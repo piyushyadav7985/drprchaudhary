@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 
-const HERO_IMG = "https://image.pollinations.ai/prompt/professional%20Indian%20senior%20male%20surgeon%2055%20years%20old%20green%20surgical%20scrubs%20stethoscope%20confident%20arms%20crossed%20clean%20white%20hospital%20background%20studio%20portrait%20ultra%20realistic%20sharp%20focus?width=520&height=640&nologo=true&seed=777";
+const HERO_IMG = "https://i.ibb.co/5ghGjHHy/Screenshot-2026-06-08-025244.png";
 
 export default function Hero() {
   return (
